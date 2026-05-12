@@ -1,16 +1,54 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**bluelogistica/BlueLogistica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Blue Engineering
 
-Here are some ideas to get you started:
+Tecnologia e automação para operações logísticas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvimento de sistemas internos, integrações e serviços voltados para eficiência operacional, rastreabilidade e infraestrutura.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
+---
+
+## Áreas de atuação
+
+- APIs internas
+- Automação operacional
+- Integrações entre plataformas
+- Monitoramento e infraestrutura
+- Gestão de dispositivos
+- Sistemas corporativos
+
+---
+
+## Stack
+
+- TypeScript
+- Node.js
+- Python
+- PostgreSQL
+- Docker
+- Linux
+
+---
+
+## Projetos
+
+| Projeto | Descrição |
+|---|---|
+| Internal APIs | Serviços internos e integrações |
+| Automation Services | Automação de processos |
+| Monitoring Tools | Observabilidade e monitoramento |
+| Operational Systems | Sistemas operacionais internos |
+
+---
+
+<div align="center">
+
+Blue Logística • Engenharia & Tecnologia
+
+</div>
